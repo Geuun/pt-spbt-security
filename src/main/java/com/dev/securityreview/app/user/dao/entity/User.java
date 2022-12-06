@@ -1,4 +1,4 @@
-package com.dev.securityreview.domain.user.dao.entity;
+package com.dev.securityreview.app.user.dao.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
